@@ -4,3 +4,4 @@ This is the Git repository of my book
 This line was added on Github
 
 Okay, this is a new line
+This book is about biking.
